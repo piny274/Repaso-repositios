@@ -23,6 +23,8 @@ public class EjercicioRepaso {
     private static void ImprimirNombre(){
     
         System.out.println("Mi nombre es Cristian Tabares");
+        
+        System.out.println("otra vez");
     }
     
 }
