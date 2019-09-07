@@ -28,6 +28,8 @@ public class EjercicioRepaso {
         
         
         System.out.println("nuevo commit");
+        
+        System.out.println("si funciona en preduccion");
     }
     
 }
